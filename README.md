@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Diego+Prata;Tenho+38+anos+...;...+e+sou+brasileiro;Estou+aprendendo+Ciência+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=57C896B1&center=true&vCenter=true&width=443&height=77&lines=Ol%C3%A1...;Meu+nome+%C3%A9+Diego+Prata!;Tenho+38+anos...;...e+sou+brasileiro!;Sou+estudante+de+Ci%C3%AAncia+de+Dados!;Seja+bem-vindo!)](https://git.io/typing-svg)
 
  ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
